@@ -1,0 +1,3 @@
+cltk==0.1.112
+jupyter
+lxml
